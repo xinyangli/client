@@ -537,12 +537,12 @@ QString Theme::quotaBaseFolder() const
 
 QString Theme::oauthClientId() const
 {
-    return QStringLiteral("owncloud-desktop");
+    return QStringLiteral("owncloud-android");
 }
 
 QString Theme::oauthClientSecret() const
 {
-    return QStringLiteral("UBntmLjC2yYCeHwsyj73Uwo9TAaecAetRwMw0xYcvNL9yRdLSUi0hUAHfvCHFeFh");
+    return QStringLiteral("dInFYGV33xKzhbRmpqQltYNdfLdJIfJ9L5ISoKhNoT9qZftpdWSP71VrpGR9pmoD");
 }
 
 QString Theme::oauthLocalhost() const
