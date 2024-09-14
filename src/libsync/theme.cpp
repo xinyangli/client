@@ -537,7 +537,7 @@ QString Theme::quotaBaseFolder() const
 
 QString Theme::oauthClientId() const
 {
-    return QStringLiteral("xdXOt13JKxym1B1QcEncf2XDkLAexMBFwiT9j6EfhhHFJhs2KM9jbjTmf8JBXE69");
+    return QStringLiteral("owncloud-desktop");
 }
 
 QString Theme::oauthClientSecret() const
