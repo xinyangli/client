@@ -558,7 +558,7 @@ QPair<QString, QString> Theme::oauthOverrideAuthUrl() const
 QVector<quint16> Theme::oauthPorts() const
 {
     // zero means a random port
-    return {0};
+    return {43580, 38622};
 }
 
 QString Theme::openIdConnectScopes() const
